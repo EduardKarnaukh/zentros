@@ -1,0 +1,5 @@
+# Release binaries (uploaded via GitHub Releases)
+*.dmg
+*.exe
+*.AppImage
+*.deb
