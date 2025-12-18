@@ -4,6 +4,14 @@
 
 Zentros wraps the Claude Code CLI with an intuitive visual interface, eliminating the need for traditional IDEs. Build, manage, and ship software faster with AI assistance.
 
+## Demo
+
+### Matrix Mode
+<video src="1-compressed.mp4" controls width="100%"></video>
+
+### Pipelines
+<video src="2-compressed.mp4" controls width="100%"></video>
+
 ## Features
 
 - **Workspaces** - Organize and manage multiple projects with ease
