@@ -7,10 +7,10 @@ Zentros wraps the Claude Code CLI with an intuitive visual interface, eliminatin
 ## Demo
 
 ### Matrix Mode
-<video src="1-compressed.mp4" controls width="100%"></video>
+![Matrix Mode](1-matrix-mode.gif)
 
 ### Pipelines
-<video src="2-compressed.mp4" controls width="100%"></video>
+![Pipelines](2-pipelines.gif)
 
 ## Features
 
