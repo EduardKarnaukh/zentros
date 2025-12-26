@@ -5,11 +5,23 @@ All notable changes to Zentros will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.0] - 2024-12-26
+
+### Added
+- **Multi-language Support** - Switch between languages (English, Polish, Russian, Ukrainian) directly in Settings
+- **Windows Support** - Full support for Windows platform
+
+### Improved
+- Enhanced UI responsiveness and stability
+- Various bug fixes and performance improvements
+
+---
+
 ## [1.0.0] - 2024-12-17
 
 ### Initial Release
 
-First public release of Zentros - a modern desktop application for AI-powered software development.
+First public release of Zentros - an Agentic Development Environment (ADE) for AI-powered software development.
 
 ### Added
 
@@ -62,10 +74,11 @@ First public release of Zentros - a modern desktop application for AI-powered so
 - Zustand for state management
 
 ### Known Limitations
-- macOS only (Windows and Linux coming soon)
+- macOS and Windows only (Linux coming soon)
 - Requires Claude Code CLI to be installed separately
 - Requires active Anthropic API subscription
 
 ---
 
+[1.1.0]: https://github.com/EduardKarnaukh/zentros/releases/tag/v1.1.0
 [1.0.0]: https://github.com/EduardKarnaukh/zentros/releases/tag/v1.0.0

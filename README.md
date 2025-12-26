@@ -1,8 +1,8 @@
 # Zentros
 
-**A modern desktop application for AI-powered software development**
+**Agentic Development Environment (ADE)**
 
-Zentros wraps the Claude Code CLI with an intuitive visual interface, eliminating the need for traditional IDEs. Build, manage, and ship software faster with AI assistance.
+Zentros is a next-generation development environment where AI agents take the lead. Unlike traditional IDEs where you write code, in Zentros you collaborate with AI to build, manage, and ship software faster. Powered by Claude Code CLI with an intuitive visual interface.
 
 ## Demo
 
@@ -20,6 +20,7 @@ Zentros wraps the Claude Code CLI with an intuitive visual interface, eliminatin
 - **File Explorer** - Browse, view, and edit source code with Monaco Editor
 - **Docker Support** - Container management for isolated development environments
 - **Git Integration** - Visual git operations, branch management, and diff viewer
+- **Versioning** - Work on specific versions of your project; upon completion, automatically updates CHANGELOG.md and documentation
 - **Matrix Mode** - Run multiple AI agents in parallel for complex tasks
 - **Pipelines** - Create and execute custom development workflows
 - **Code Map** - Visualize project structure and file dependencies
